@@ -1,6 +1,6 @@
 # Sistema de Gestão de Academia
 
-API REST desenvolvida utilizando Django e Django REST Framework.
+API REST desenvolvida utilizando Django e Django REST Framework para gerenciamento de alunos e matrículas.
 
 ## Funcionalidades
 
@@ -14,7 +14,7 @@ API REST desenvolvida utilizando Django e Django REST Framework.
 ### Matrículas
 
 * Cadastrar matrícula
-* Listar matrícula
+* Listar matrículas
 * Editar matrícula
 * Excluir matrícula
 
